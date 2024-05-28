@@ -2,6 +2,7 @@
 Learning deeper, backend tooling
 
 Voici quelques exercices issus du bootcamp https://www.boot.dev/
+En bref:
 Cheap, moins de 200 € pour un an.
 Diversisifé et très progressif.
 Gamifié avec une pédagogie progressive.
